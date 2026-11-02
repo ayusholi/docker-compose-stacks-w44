@@ -2,5 +2,5 @@
 
 ## [Unreleased]
 
-- update changelog with recent changes
-- Updated: 2026-11-01T14:00:09.482Z
+- format code according to style guide
+- Updated: 2026-11-02T14:00:00.938Z
