@@ -2,5 +2,5 @@
 
 ## [Unreleased]
 
-- format code according to style guide
-- Updated: 2026-11-02T14:00:00.938Z
+- add utility functions for data processing
+- Updated: 2026-11-03T14:00:01.015Z
