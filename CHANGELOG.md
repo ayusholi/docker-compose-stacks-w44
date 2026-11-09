@@ -2,5 +2,5 @@
 
 ## [Unreleased]
 
-- add utility functions for data processing
-- Updated: 2026-11-03T14:00:01.015Z
+- correct type mismatch in data models
+- Updated: 2026-11-09T14:00:02.050Z
